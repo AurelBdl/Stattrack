@@ -37,3 +37,15 @@ Stattrack is an Arduino-based project designed to track and display gameplay sta
    ```bash
    git clone https://github.com/yourusername/stattrack.git
    cd stattrack
+
+## Roadmap
+
+🚀 **Future Enhancements**
+
+We have exciting plans for Stattrack! Here are some upcoming features that we aim to implement:
+
+1. ⏱️ **Chronometer**: Add a stopwatch functionality to time gameplay sessions. This will help players track the duration of their matches and improve strategy over time.
+
+2. ⏲️ **Timer**: Introduce a countdown timer for specific game scenarios or training sessions. Players can set a timer for drills or match intervals, enhancing their overall performance and preparedness.
+
+We believe these features will enhance the user experience and provide more comprehensive tools for airsoft enthusiasts. Stay tuned for updates as we continue to develop Stattrack!
