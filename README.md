@@ -17,7 +17,6 @@ Stattrack is an Arduino-based project designed to track and display gameplay sta
 
 - Heltec Wifi LoRa 32 V3
 - Two buttons connected to GPIO pins (for `DEATH_BUTTON` and `KILL_BUTTON`)
-- OLED display (compatible with Adafruit SSD1306)
 - Power source (battery or USB)
 - Jumper wires and breadboard for prototyping
 
