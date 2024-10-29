@@ -48,4 +48,6 @@ We have exciting plans for Stattrack! Here are some upcoming features that we ai
 
 2. ⏲️ **Timer**: Introduce a countdown timer for specific game scenarios or training sessions. Players can set a timer for drills or match intervals, enhancing their overall performance and preparedness.
 
+3. 📱 **Mobile App Integration**: Develop a companion mobile app that syncs with the tracker to provide detailed statistics and insights. Users could analyze their gameplay on their phones and receive real-time updates, share stats or achievements on social media platforms.
+
 We believe these features will enhance the user experience and provide more comprehensive tools for airsoft enthusiasts. Stay tuned for updates as we continue to develop Stattrack!
