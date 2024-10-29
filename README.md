@@ -1,4 +1,5 @@
-# Stattrack - Airsoft Statistics Tracker
+# 📈 Stattrack - Airsoft Statistics Tracker 🔫
+
 
 ## Overview
 
