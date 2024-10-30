@@ -14,7 +14,7 @@ The tracker has **three main pages** that you can cycle through in a continuous 
 
 ### 🕹️ Buttons and Actions
 
-- **Button 1 (➡️ Navigation)**: Moves to the next page (continuous loop).
+- **Button 1**: Moves to the next page (continuous loop), turn on and off.
 - **Button 2**: Controls specific functions on each page (e.g., adding a kill, starting the stopwatch).
 - **Button 3**: Adjusts certain values like the number of deaths or timer duration.
 
