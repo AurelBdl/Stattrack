@@ -34,7 +34,7 @@ Stattrack is an Arduino-based project designed to track and display gameplay sta
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/stattrack.git
+   git clone https://github.com/AurelBdl/stattrack.git
    cd stattrack
 
 ## Roadmap
