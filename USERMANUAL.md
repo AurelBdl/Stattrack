@@ -10,6 +10,8 @@ The tracker has **three main pages** that you can cycle through in a continuous 
 2. **Stopwatch**
 3. **Timer**
 
+![Pages example](https://i.ytimg.com/vi/dk-01OpKYuQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCKh1FXLM-NTzz4vSwquX2k6hsTWQ)
+
 ### 🕹️ Buttons and Actions
 
 - **Button 1 (➡️ Navigation)**: Moves to the next page (continuous loop).
