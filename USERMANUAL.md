@@ -66,8 +66,4 @@ To turn the module **on** or **off**, press and hold the **Navigation Button (Bu
     
 ---
 
-## 🚀 Recommendations
-
-- **Visual Feedback**: A quick visual confirmation (like an animation or icon) for each action will ensure a smooth and user-friendly experience.
-  
 💡 **Enjoy your game!** Enhance your airsoft experience with this practical and customizable tracker.
