@@ -13,6 +13,8 @@ Stattrack is an Arduino-based project designed to track and display gameplay sta
 - **User-Friendly Interface**: Simple interface to increment and reset stats using buttons.
 - **Customizable Gameplay Settings**: Easily reset your stats or start a new game session.
 
+  [Check out the user manual for for informations on how it works](usermanual.md)
+
 ## Hardware Required
 
 - Heltec Wifi LoRa 32 V3
